@@ -1,0 +1,3 @@
+clear
+.././COST/cxx queue_main.cc
+g++ -Wall -Werror -g -o queue_main queue_main.cxx
