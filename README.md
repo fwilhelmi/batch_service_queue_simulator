@@ -1,6 +1,6 @@
 # README #
 
-This repository contains a batch service queue simulator written in C/C++, which has been used to validate the blockchain delay model proposed in [ADD reference].
+This repository contains a batch service queue simulator written in C/C++, which has been used to validate the blockchain delay model proposed in Wilhelmi, F., & Giupponi, L. (2021). Discrete-Time Analysis of Wireless Blockchain Networks. arXiv preprint arXiv:2104.05586.
 
 ### Authors ###
 
